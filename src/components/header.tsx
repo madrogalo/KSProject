@@ -24,6 +24,11 @@ const Header = () => {
                 Photos
               </Link>
             </li>
+            <li>
+              <Link href="/users-from-db" className="text-white hover:underline">
+                Users db
+              </Link>
+            </li>
           </ul>
         </nav>
       </div>
